@@ -1,3 +1,4 @@
+# TODO: Add username to logging. messages
 # TODO: If repo does exist on the code host, check if it exists on the Sourcegraph instance, or if there's a GraphQL query to add it to the code host config on Sourcegraph
 # TODO: Find a GraphQL query that can check Sourcegraph for configured repo path patterns / code host names, so repo embeddings can be requested for newly added code hosts without having to update this list code_hostnames_on_dotcom
 # TODO: Add server URL validation to get_sourcegraph_server_addresses
